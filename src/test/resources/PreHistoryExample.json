@@ -1,0 +1,38 @@
+{
+	"palaeolithic":{
+		"begin": 2500000,
+		"beginBC": true,
+		"end": 10000,
+		"endBC": true,
+		"lifestyle": "nomad",
+		"activity": ["hunt", "gather"],
+		"material": "rocks"
+		},
+	"neolithic":{
+		"begin": 10000,
+		"beginBC": true,
+		"end": 3000,
+		"endBC": true,
+		"lifestyle": "sedentary",
+		"activity": ["agriculture", "animal husbandry"],
+		"material": "rocks"
+	},
+	"chalcolithic":{
+		"begin": 3000,
+		"beginBC": true,
+		"end": 1200,
+		"endBC": true,
+		"lifestyle": "sedentary",
+		"activity": ["agriculture", "animal husbandry", "metallurgy"],
+		"material": "copper"
+		},
+	"ironAge":{
+		"begin": 1200,
+		"beginBC": true,
+		"end": 332,
+		"endAD": false,
+		"lifestyle": "sedentary",
+		"activity": ["agriculture", "animal husbandry", "metallurgy"],
+		"material": "iron"
+	}
+}
